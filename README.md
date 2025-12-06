@@ -29,9 +29,10 @@ This project implements an Automated Question Generation (AQG) system using the 
    <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7a9c62ba-5cca-4fb1-abfe-fa2c4a248e63" />  
 
 4. Output
-   <img width="1116" height="396" alt="image" src="https://github.com/user-attachments/assets/08c3a8e2-d987-4f80-9dfa-fdd034f5beb6" />  
+   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/08c3a8e2-d987-4f80-9dfa-fdd034f5beb6" />  
 
-   <img width="1565" height="418" alt="image" src="https://github.com/user-attachments/assets/5212b93e-820a-4520-9dfd-790d55165e82" />
+   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fbf97692-7fa7-466a-a0b9-0099d69bc4d6" />
+
 
    
    
