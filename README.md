@@ -1,8 +1,8 @@
-Automated Question Generation 
+AUTOMATED QUESTION GENERATION
 
 This project implements an Automated Question Generation (AQG) system using the FLAN-T5 transformer. The model is fine-tuned on a 10k-sample subset of the SQuAD dataset to generate context-aware, meaningful questions from any input text. A clean NLP pipeline handles preprocessing, training, evaluation, and inference, and the project includes a Gradio interface for real-time question generation.
 
-Key Features
+KEY FEATURE
 
 (i) Transformer-based question generation using FLAN-T5 model from Hugging Face
 
