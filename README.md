@@ -4,10 +4,10 @@ This project implements an Automated Question Generation (AQG) system using the 
 
 **KEY FEATURES**
 
--Transformer-based question generation using FLAN-T5 model from Hugging Face
--Fine-tuned on SQuAD v1.1 (10k curated samples)
+-Transformer-based question generation using FLAN-T5 model from Hugging Face.
+-Fine-tuned on SQuAD v1.1 (10k curated samples).
 -BLEU-score based evaluation for performance measurement at different granularity level (1,2 and 3).
--Preprocessing → tokenization → training → inference pipeline
+-Preprocessing → tokenization → training → inference pipeline.
 -Gradio GUI for interactive question generation 
 
 **RESULTS ANALYSIS**
