@@ -22,14 +22,15 @@ This project implements an Automated Question Generation (AQG) system using the 
   BERT-Based (green): 27%. T5-Small achieves competitive overall performance while excelling in other
   critical dimensions.  
   
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/58898ec6-0085-40f6-8ef6-3a3640e8ba68" />        
+   <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/58898ec6-0085-40f6-8ef6-3a3640e8ba68" />        
 
   
 3. Performance Metrics Bar Chart comparing four dimensions across all methodologies    
    <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7a9c62ba-5cca-4fb1-abfe-fa2c4a248e63" />  
 
 4. Output
-   <img width="1252" height="440" alt="image" src="https://github.com/user-attachments/assets/c4e82785-2186-4b69-b71f-d61e4bcd81a3" />  
+   <img width="1116" height="396" alt="image" src="https://github.com/user-attachments/assets/08c3a8e2-d987-4f80-9dfa-fdd034f5beb6" />  
+
    <img width="1565" height="418" alt="image" src="https://github.com/user-attachments/assets/5212b93e-820a-4520-9dfd-790d55165e82" />
 
    
