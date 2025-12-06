@@ -4,11 +4,11 @@ This project implements an Automated Question Generation (AQG) system using the 
 
 **KEY FEATURES**
 
->Transformer-based question generation using FLAN-T5 model from Hugging Face
->Fine-tuned on SQuAD v1.1 (10k curated samples)
->BLEU-score based evaluation for performance measurement at different granularity level (1,2 and 3).
-> Preprocessing → tokenization → training → inference pipeline
-> Gradio GUI for interactive question generation 
+-Transformer-based question generation using FLAN-T5 model from Hugging Face
+-Fine-tuned on SQuAD v1.1 (10k curated samples)
+-BLEU-score based evaluation for performance measurement at different granularity level (1,2 and 3).
+-Preprocessing → tokenization → training → inference pipeline
+-Gradio GUI for interactive question generation 
 
 **RESULTS ANALYSIS**
 1. The given figure shows comparision of T5 model against different models such as BERT, rule based and template based approaches. BLEU scores of granularity level 1-gram,2-gram and 3-gram are used for this purpose. The granularity level indicates number of matching sequences
