@@ -15,15 +15,22 @@ This project implements an Automated Question Generation (AQG) system using the 
 1. BLEU SCORE COMPARISION TABLE  
    The given figure shows comparision of T5 model against different models such as BERT, rule based and template based approaches. BLEU scores of granularity level 1-gram,2-    gram and 3-gram are used for this purpose. The granularity level indicates number of matching sequences.    
       
-   <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/22b850d5-17d3-4084-a7f5-bc1c91e7b8dd" />    
+   <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/22b850d5-17d3-4084-a7f5-bc1c91e7b8dd" />      
 
 2. Overall BLEU Score Pie Chart displaying proportional distribution of scores    
   Template-Based (gray): 18%, Rule-Based (blue): 21%, T5-Small (orange): 25% (highlighted),
   BERT-Based (green): 27%. T5-Small achieves competitive overall performance while excelling in other
   critical dimensions.  
   
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/58898ec6-0085-40f6-8ef6-3a3640e8ba68" />      
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/58898ec6-0085-40f6-8ef6-3a3640e8ba68" />        
 
   
 3. Performance Metrics Bar Chart comparing four dimensions across all methodologies    
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7a9c62ba-5cca-4fb1-abfe-fa2c4a248e63" />
+   <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7a9c62ba-5cca-4fb1-abfe-fa2c4a248e63" />  
+
+4. Output
+   <img width="1252" height="440" alt="image" src="https://github.com/user-attachments/assets/c4e82785-2186-4b69-b71f-d61e4bcd81a3" />  
+   <img width="1565" height="418" alt="image" src="https://github.com/user-attachments/assets/5212b93e-820a-4520-9dfd-790d55165e82" />
+
+   
+   
