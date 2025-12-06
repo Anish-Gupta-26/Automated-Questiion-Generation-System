@@ -21,9 +21,9 @@ This project implements an Automated Question Generation (AQG) system using the 
 Template-Based (gray): 18%, Rule-Based (blue): 21%, T5-Small (orange): 25% (highlighted),
 BERT-Based (green): 27%. T5-Small achieves competitive overall performance while excelling in other
 critical dimensions
-<img width="779" height="619" alt="image" src="https://github.com/user-attachments/assets/58898ec6-0085-40f6-8ef6-3a3640e8ba68" />
+<img width="900" height="800" alt="image" src="https://github.com/user-attachments/assets/58898ec6-0085-40f6-8ef6-3a3640e8ba68" />
 
 
 
 3. Performance Metrics Bar Chart comparing four dimensions across all methodologies
-<img width="1293" height="843" alt="image" src="https://github.com/user-attachments/assets/7a9c62ba-5cca-4fb1-abfe-fa2c4a248e63" />
+<img width="900" height="800" alt="image" src="https://github.com/user-attachments/assets/7a9c62ba-5cca-4fb1-abfe-fa2c4a248e63" />
